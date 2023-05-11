@@ -26,9 +26,10 @@ nav img {
   height: 100px;
 }
 
-nav p {
+nav .logoText {
   font-size: 25px;
-  margin: 30px 0px 0px -550px;
+  margin-top: 25px;
+  margin-right: auto;
 }
 
 nav ul {
