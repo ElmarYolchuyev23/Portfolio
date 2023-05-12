@@ -34,12 +34,17 @@ nav .logoText {
 
 nav ul {
   display: flex;
-  cursor: pointer;
 }
+
 nav ul li {
+  height: 25px;
   cursor: pointer;
   list-style-type: none;
-  padding: 15px 15px 0px;
+  padding: 0 15px;
+}
+
+nav ul li:hover {
+  border-bottom: 1px solid white;
 }
 
 .col-4 img {
