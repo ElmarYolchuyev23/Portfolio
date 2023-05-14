@@ -22,7 +22,6 @@
 
 nav {
   display: flex;
-  justify-content: space-between;
 }
 
 nav img {
@@ -38,6 +37,7 @@ nav .logoText {
 
 nav ul {
   display: flex;
+  justify-content: space-between;
 }
 
 nav ul li {
